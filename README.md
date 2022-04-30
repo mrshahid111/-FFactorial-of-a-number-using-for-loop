@@ -1,1 +1,1 @@
-# -FFactorial-of-a-number-using-for-loop
+Factorial-of-a-number-using-for-loop
